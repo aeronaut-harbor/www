@@ -1,1 +1,1 @@
-Creating best open-source software for flight simulation.
+_Coming soon._
