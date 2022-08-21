@@ -2,7 +2,7 @@
 # General Site Settings
 title: Aeronaut Harbor
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Enthusiast grade, open source software for flight simulation
+description: Enthusiast-grade, open-source software for flight simulation
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -18,7 +18,7 @@ author:
 # Hero Settings
 hero:
   title: Aeronaut Harbor
-  description: Enthusiast grade, open source software for flight simulation
+  description: Enthusiast-grade, open-source software for flight simulation
   image: '/images/01.jpg'
 
 
