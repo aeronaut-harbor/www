@@ -2,7 +2,8 @@
 
 ## Overview
 
-Aeronaut Harbor website is powered by [Jekyll](https://jekyllrb.com/), uses
+Aeronaut Harbor website (https://www.aeronaut-harbor.org/) is powered by 
+[Jekyll](https://jekyllrb.com/), uses
 [Norlin](https://jekyllthemes.io/theme/norlin-dark-blog-jekyll-theme) theme,
 and is hosted on 
 [Netlify](https://app.netlify.com/sites/aeronaut-harbor/overview).
