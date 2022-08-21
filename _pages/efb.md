@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: EFB
+permalink: /efb/
 image: '/images/60.jpg'
 ---
 
