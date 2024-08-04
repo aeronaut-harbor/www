@@ -6,7 +6,7 @@ Aeronaut Harbor website (https://www.aeronaut-harbor.org/) is powered by
 [Jekyll](https://jekyllrb.com/), uses
 [Norlin](https://jekyllthemes.io/theme/norlin-dark-blog-jekyll-theme) theme,
 and is hosted on 
-[Netlify](https://app.netlify.com/sites/aeronaut-harbor/overview).
+[GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site).
 
 ## Local preview
 
